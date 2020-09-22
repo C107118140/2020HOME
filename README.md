@@ -14,7 +14,7 @@
 ```
 
 
-![NKFUST](nkfust.jpg "第一科大")
+![NKFUST](NKFUST.jpg "第一科大")
 
 
 
